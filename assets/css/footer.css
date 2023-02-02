@@ -1,0 +1,217 @@
+:root {
+    --main-color: rgba(0, 20, 137, 1);
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: cursive;
+}
+
+/*------------------- content_manenger---------------- */
+#content_management {
+    position: relative;
+    display: block;
+    width: 100%;
+    height: auto;
+    color: #ffffff;
+    font-size: 20px;
+    list-style-type: none;
+    object-fit: cover;
+
+
+
+}
+
+.avatar_coach {
+
+    height: auto;
+    width: 100%;
+    object-fit: cover;
+    object-position: top;
+}
+
+.coach {
+    margin-bottom: 30px;
+    width: fit-content;
+    font-size: 30px;
+    text-transform: uppercase;
+    font-weight: bolder;
+    text-shadow: 4px 4px 0px rgba(0, 0, 0, 0.2);
+    border-bottom: 2px solid white;
+}
+
+.name_coach {
+    font-size: 30px;
+    text-shadow: 5px 5px 10px rgba(255, 255, 255, 0.7);
+    margin-bottom: 68px;
+}
+
+.profile_coach {
+    position: absolute;
+    top: 10%;
+    left: 73%;
+    /* width: 270px; */
+    text-align: justify;
+    /* font-style: oblique; */
+    text-shadow: none;
+
+}
+
+.profile_coach li {
+    margin-bottom: 60px;
+    font-weight: 600;
+    width: fit-content;
+}
+
+.statistics li p,
+.profile_coach li p {
+    font-size: 15px;
+    text-shadow: none;
+    color: #ffffffa4;
+    align-items: center;
+    font-style: oblique;
+    font-weight: 500;
+    margin-top: 5px;
+
+
+}
+
+.profile_coach .trophies p img {
+    height: 75px;
+    width: 58px;
+    margin-bottom: -28px;
+}
+
+.profile_coach .trophies p {
+    font-size: 40px;
+    margin: 20px 0px;
+    margin-bottom: 50px;
+
+}
+
+.profile_coach li p img {
+    display: inline-block;
+    height: 30px;
+    width: 30px;
+    margin-bottom: -5px;
+}
+
+.country_coach {
+    word-spacing: 15px;
+}
+
+.statistics {
+    position: absolute;
+    top: 10%;
+    right: 69%;
+}
+
+.statistics li {
+    margin-bottom: 40px;
+}
+
+#content_management p {
+    display: flex;
+    align-items: center;
+}
+
+#content_management div img {
+    margin: auto 6px;
+}
+
+#content_management .country_coach {
+    display: flex;
+}
+
+
+
+/* --------------footer------------------ */
+#footer {
+    width: 100%;
+    margin: 50px 0px;
+    border-top: 2px solid rgba(128, 128, 128, 0.471);
+}
+
+#footer .sponsor_main {
+    display: flex;
+    /* margin: auto; */
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#footer .sponsor_main li {
+    display: inline-block;
+
+    width: fit-content;
+}
+
+#footer .sponsor_main li img {
+    height: 70px;
+}
+
+#footer .sponsor_sub {
+    display: flex;
+    /* margin: auto; */
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#footer .sponsor_sub li {
+    display: inline-block;
+    margin: 0px 20px;
+
+}
+
+#footer .sponsor_sub img {
+    height: 80px;
+    width: auto;
+}
+
+#footer .media_club {
+    display: flex;
+    justify-content: center;
+    border-right: 3px solid rgba(128, 128, 128, 0.423);
+    border-left: 3px solid rgba(128, 128, 128, 0.423);
+    width: fit-content;
+    margin: 20px auto;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+#footer .media_club a {
+    font-size: 30px;
+    height: 40px;
+    width: 40px;
+    display: inline-block;
+    margin: 0px 10px;
+    margin-right: 20px;
+    border-radius: 50%;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#footer .media_club p {
+    font-size: 30px;
+    line-height: 40px;
+    justify-content: center;
+
+
+
+}
+
+#footer .media_club .fa-brands {
+    display: flex;
+
+}
+
+#footer .media_club a:hover {
+    background-color: inherit;
+    color: inherit;
+    border: 1px solid black;
+
+}

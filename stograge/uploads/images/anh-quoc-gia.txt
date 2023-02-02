@@ -1,0 +1,16 @@
+https://res.cloudinary.com/chelsea-production/image/upload/c_fill,dpr_auto,f_auto,fl_lossy,g_auto,h_18,q_auto,z_1.0/v1/site-assets/flags/BRA,dpr_auto,f_auto,fl_lossy,g_auto,h_18,q_auto,z_1.0/v1/site-assets/flags/BEL
+https://res.cloudinary.com/chelsea-production/image/upload/c_fill,dpr_auto,f_auto,fl_lossy,g_auto,h_18,q_auto,z_1.0/v1/site-assets/flags/BRA
+https://res.cloudinary.com/chelsea-production/image/upload/c_fill,dpr_auto,f_auto,fl_lossy,g_auto,h_18,q_auto,z_1.0/v1/site-assets/flags/CZE
+https://res.cloudinary.com/chelsea-production/image/upload/c_fill,dpr_auto,f_auto,fl_lossy,g_auto,h_18,q_auto,z_1.0/v1/site-assets/flags/DEU
+https://res.cloudinary.com/chelsea-production/image/upload/c_fill,dpr_auto,f_auto,fl_lossy,g_auto,h_18,q_auto,z_1.0/v1/site-assets/flags/DNK
+https://res.cloudinary.com/chelsea-production/image/upload/c_fill,dpr_auto,f_auto,fl_lossy,g_auto,h_18,q_auto,z_1.0/v1/site-assets/flags/ESP
+https://res.cloudinary.com/chelsea-production/image/upload/c_fill,dpr_auto,f_auto,fl_lossy,g_auto,h_18,q_auto,z_1.0/v1/site-assets/flags/FRA
+https://res.cloudinary.com/chelsea-production/image/upload/c_fill,dpr_auto,f_auto,fl_lossy,g_auto,h_18,q_auto,z_1.0/v1/site-assets/flags/GBR-ENG
+https://res.cloudinary.com/chelsea-production/image/upload/c_fill,dpr_auto,f_auto,fl_lossy,g_auto,h_18,q_auto,z_1.0/v1/site-assets/flags/GBR-SCT
+https://res.cloudinary.com/chelsea-production/image/upload/c_fill,dpr_auto,f_auto,fl_lossy,g_auto,h_18,q_auto,z_1.0/v1/site-assets/flags/HRV
+https://res.cloudinary.com/chelsea-production/image/upload/c_fill,dpr_auto,f_auto,fl_lossy,g_auto,h_18,q_auto,z_1.0/v1/site-assets/flags/HUN
+https://res.cloudinary.com/chelsea-production/image/upload/c_fill,dpr_auto,f_auto,fl_lossy,g_auto,h_18,q_auto,z_1.0/v1/site-assets/flags/ITA
+https://res.cloudinary.com/chelsea-production/image/upload/c_fill,dpr_auto,f_auto,fl_lossy,g_auto,h_18,q_auto,z_1.0/v1/site-assets/flags/MAR
+https://res.cloudinary.com/chelsea-production/image/upload/c_fill,dpr_auto,f_auto,fl_lossy,g_auto,h_18,q_auto,z_1.0/v1/site-assets/flags/PRT
+https://res.cloudinary.com/chelsea-production/image/upload/c_fill,dpr_auto,f_auto,fl_lossy,g_auto,h_18,q_auto,z_1.0/v1/site-assets/flags/SEN
+https://res.cloudinary.com/chelsea-production/image/upload/c_fill,dpr_auto,f_auto,fl_lossy,g_auto,h_18,q_auto,z_1.0/v1/site-assets/flags/USA
